@@ -20,12 +20,6 @@
 
 
 
-<br>
-
-
-
-
-
 
 <details>
 <summary><b>🏆 Github Trophies</b></summary>
