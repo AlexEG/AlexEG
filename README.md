@@ -1,6 +1,5 @@
 # Hi there, I'm Mohamed Adel - aka AlexEG 👋 
-![freeCodeCamp points](https://img.shields.io/freecodecamp/points/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7?logo=freecodecamp&logoColor=%23ffffff&style=plastic)   ![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/7b03fe4da895e14b6667c3ab9bf5f6f7?color=%23a41fac&logo=github&logoColor=%23fff&style=plastic) ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlexEG.AlexEG)  ![Website](https://img.shields.io/website?down_color=%23ff0000&down_message=404&style=plastic&up_color=%230ef700&up_message=online&url=https%3A%2F%2Falexeg.github.io%2F)
-
+![freeCodeCamp points](https://img.shields.io/freecodecamp/points/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7?logo=freecodecamp&logoColor=%23ffffff&style=plastic)   ![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/7b03fe4da895e14b6667c3ab9bf5f6f7?color=%23a41fac&logo=github&logoColor=%23fff&style=plastic) ![Website](https://img.shields.io/website?down_color=%23ff0000&down_message=404&style=plastic&up_color=%230ef700&up_message=online&url=https%3A%2F%2Falexeg.github.io%2F)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlexEG.AlexEG)
 
 
 |                     |                      |
