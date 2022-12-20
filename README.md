@@ -3,7 +3,7 @@
 ![Banner](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)
 
 <p align="center">
-I'm a 2nd-year student at José Simeón Cañas Central American University. My favorite things include learning about technology 💻, playing video games 🎮, and eating pizza 🍕. I look forward to learning new skills and adding them to my list.  
+0000000000000100000010000000000000001010000000000100000000000001101000000000010000001000000000000000101 
 </p>
 
 ##
