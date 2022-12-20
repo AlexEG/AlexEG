@@ -11,17 +11,6 @@
 ## I'm a College student, Egyptian, Developer, and Freelancer!!
 
 
-|       |                                                 |
-|:----- |:------------------------------------------------|
-|   0010|     |    |  
-|       |     |:---|
-|       |     ||
-              ||
-              ||
-              ||
-              ||
-              |- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)|
-
 
 <h2 align="center">📫 Connect with me</h2>
 
