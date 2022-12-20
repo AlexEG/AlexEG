@@ -6,29 +6,26 @@
 |<div align = "left">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq)</div>|<div align = "left"> [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/AlexEG)](https://www.frontendmentor.io/profile/AlexEG)&nbsp; [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/Alexander_EG)](https://codepen.io/Alexander_EG)&nbsp; [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org)](https://www.freecodecamp.org/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7)&nbsp; [![Linkedin: AlexEG](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-adel-69a452249/)](https://www.linkedin.com/in/mohamed-adel-69a452249/)&nbsp;       <br><br><br> - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!<br>- 🌱 I’m currently learning everything 🤣<br>- 👯 I’m looking to collaborate with other content creators<br>- 🥅 2022 Goals: Learn more about web3<br>- ⚡ Fun fact: I love to draw and play guitar / drums<br>555555555555<br>555555555555<br>555555555555</div>|
 
 
-## I'm a College student, Egyptian, Developer, and Freelancer!!
+<!-- ## I'm a College student, Egyptian, Developer, and Freelancer!! -->
 
 
 
 <!-- ///////////////////////////// -->
-
-
-
-
-<br>
-<h2 align="center">📊 Github Stats</h2>
-
-<div align = "left">
-<details>
-<summary><b>🔥 Streak Stats</b></summary>
-<br>
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=AlexEG&theme=radical&hide_border=true" alt="AlexEG" width="420"/>
 </p>
  <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AlexEG&show_icons=true&theme=radical&count_private=true" alt="AlexEG's Github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexEG&layout=compact&theme=radical" alt="AlexEG" height="165">
 </p>
-</details>
+
+
+
+<br>
+
+
+
+
+
 
 <details>
 <summary><b>🏆 Github Trophies</b></summary>
@@ -50,16 +47,8 @@
 </details>
 
 
-  
-  
-<details>
-<summary><b>⚡ Github Public Stats</b></summary>
-<br>
+   
 
-</details>
-
-</div>
-<br>
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 
@@ -108,14 +97,3 @@
 
 
 </details>
-
-<!-- </div> -->
-
-<br>
-
-<h2 align="center">👨‍💻 More About Me on GitHub</h2>
-
-
-
-
-
