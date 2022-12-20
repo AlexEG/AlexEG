@@ -1,51 +1,26 @@
-<!-- Banner-->
+# Hi there, I'm Mohamed Adel - aka AlexEG 👋 
+![freeCodeCamp points](https://img.shields.io/freecodecamp/points/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7?logo=freecodecamp&logoColor=%23ffffff&style=plastic)
+[![Spotify](https://spotify-playing-now-alexeg.vercel.app/api/spotify)](https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq)
 
-![Banner](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)
 
-<p align="center">
-0000000000000100000010000000000000001010000000000100000000000001101000000000010000001000000000000000101 
-0000000000100000010000000000
-</p>
 
-##
 
-<br>
-<!---
-- Web illustrations by Storyset ( https://storyset.com/web )
---->
-<img align="right" alt="GIF" src="./assets/programming-animate.svg" width="360px"/>
 
-<br>
+## I'm a College student, Egyptian, Developer, and Freelancer!!
 
-- 🔭 I’m currently studying on **becoming a software engineer**.
+- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I love to draw and play guitar / drums
+- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
-- 🌱 I’m currently learning **React and Node.js**.
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io)!.
 
-- 📫 How to reach me: ****.
-
-- 💬 Ask me about **HTML and CSS**.
-
-- 🤝 I’m looking for help in learning about **Accessible Websites**.
-
-- 👯 I’m looking to collaborate on **Developing new open-source projects**.
-
-<br>
-<br>
-
-## Goals
-
-- 📖 Improve my skills in **JavaScript**.
-- 📖 Learn more about **React** and **Node.js**.
-- 📖 Create my own portfolio website.
-
-#
-
-<br>
 <h2 align="center">📫 Connect with me</h2>
 
 <div align = "center">
+
   
 [![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:)](mailto:)&nbsp;
 
@@ -154,10 +129,22 @@ In construction: &nbsp; [![Linkedin: Melvin Aguilar](https://img.shields.io/badg
 </details>
 
 <details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/studio-demo/cloudcash-sass/pull/1) in [studio-demo/cloudcash-sass](https://github.com/studio-demo/cloudcash-sass)
+2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
+3. 🎉 Merged PR [#120](https://github.com/codeSTACKr/minter-dapp/pull/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
+4. 🗣 Commented on [#120](https://github.com/codeSTACKr/minter-dapp/issues/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
+5. ❌ Closed PR [#191](https://github.com/codeSTACKr/create-10k-nft-collection/pull/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+<!--END_SECTION:activity-->
+
+</details>
+<details>
 <summary><b>⚡ Github Public Stats</b></summary>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AlexEG&show_icons=true&theme=radical&count_private=true" alt="AlexEG" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexEG&layout=compact&theme=radical" alt="AlexEG" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=AlexEG&show_icons=true&theme=radical&count_private=true" alt="AlexEG's Github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexEG&layout=compact&theme=radical" alt="AlexEG" height="165">
 </p>
 </details>
 
