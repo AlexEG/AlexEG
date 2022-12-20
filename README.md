@@ -2,7 +2,8 @@
 ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7?logo=freecodecamp&logoColor=%23ffffff&style=plastic)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://github.com/31pdpcquhjbfdyqmhp6j6sy3xaxq/spotify-github-profile)
+
 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq)
