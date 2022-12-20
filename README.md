@@ -3,31 +3,17 @@
 
 |                     |                      |
 |:--------------------|:---------------------|
-|<div align = "left">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq)</div>|<div align = "left">- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!<br>- 🌱 I’m currently learning everything 🤣<br>- 👯 I’m looking to collaborate with other content creators<br>- 🥅 2022 Goals: Learn more about web3<br>- ⚡ Fun fact: I love to draw and play guitar / drums<br>555555555555<br>555555555555<br>555555555555</div>|
+|<div align = "left">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq)</div>|<div align = "left"> [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/AlexEG)](https://www.frontendmentor.io/profile/AlexEG)&nbsp; [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/Alexander_EG)](https://codepen.io/Alexander_EG)&nbsp; [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org)](https://www.freecodecamp.org/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7)&nbsp; [![Linkedin: AlexEG](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-adel-69a452249/)](https://www.linkedin.com/in/mohamed-adel-69a452249/)&nbsp;       <br> - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!<br>- 🌱 I’m currently learning everything 🤣<br>- 👯 I’m looking to collaborate with other content creators<br>- 🥅 2022 Goals: Learn more about web3<br>- ⚡ Fun fact: I love to draw and play guitar / drums<br>555555555555<br>555555555555<br>555555555555</div>|
 
 
 ## I'm a College student, Egyptian, Developer, and Freelancer!!
 
 
 
-<h2 align="center">📫 Connect with me</h2>
+<!-- ///////////////////////////// -->
 
-<div align = "center">
 
-  
-[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:)](mailto:)&nbsp;
 
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile)](https://www.frontendmentor.io/profile)&nbsp;
-
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io)](https://codepen.io)&nbsp;
-
-[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee)](https://linktr.ee)&nbsp;
-
-[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org)](https://www.freecodecamp.org)&nbsp;
-
-In construction: &nbsp; [![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvin-aguilar-dev)](https://www.linkedin.com/in/melvin-aguilar-dev)
-
-</div>
 
 <br>
 <h2 align="center">📊 Github Stats</h2>
