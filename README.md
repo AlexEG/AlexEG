@@ -1,7 +1,19 @@
 # Hi there, I'm Mohamed Adel - aka AlexEG 👋 
 ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7?logo=freecodecamp&logoColor=%23ffffff&style=plastic)
-[![Spotify](https://spotify-playing-now-alexeg.vercel.app/api/spotify)](https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq)
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
+
+&nbsp;<div align="center">
+  [![Spotify](https://spotify-playing-now-six.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq)
+</div>
+
+[![Spotify]()](https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq)
+
+https://spotify-playing-now-six.vercel.app/
+
+https://spotify-playing-now-alexeg.vercel.app/
 
 
 
