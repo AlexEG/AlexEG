@@ -1,26 +1,26 @@
 # Hi there, I'm Mohamed Adel - aka AlexEG 👋 
 ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7?logo=freecodecamp&logoColor=%23ffffff&style=plastic)
 
-<div align = "left">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq)## I'm a College student, Egyptian, Developer, and Freelancer!!
-
-</div>
 
 
+|                     |                      |
+|:--------------------|:---------------------|
+|<div align = "left">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq)</div>|<div align = "left">- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!<br>- 🌱 I’m currently learning everything 🤣<br>- 👯 I’m looking to collaborate with other content creators<br>- 🥅 2022 Goals: Learn more about web3<br>- ⚡ Fun fact: I love to draw and play guitar / drums<br>555555555555<br>555555555555<br>555555555555</div>|
 
 
+## I'm a College student, Egyptian, Developer, and Freelancer!!
 
 
-
-
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
-
+|       |                                                 |
+|:----- |:------------------------------------------------|
+|   0010|     |    |  
+|       |     |:---|
+|       |     ||
+              ||
+              ||
+              ||
+              ||
+              |- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)|
 
 
 <h2 align="center">📫 Connect with me</h2>
