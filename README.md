@@ -18,10 +18,45 @@
 <br>
 <h2 align="center">📊 Github Stats</h2>
 
-<div align = "center">
+<div align = "left">
+<details>
+<summary><b>🔥 Streak Stats</b></summary>
+<br>
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=AlexEG&theme=radical&hide_border=true" alt="AlexEG" width="420"/>
+</p>
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AlexEG&show_icons=true&theme=radical&count_private=true" alt="AlexEG's Github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexEG&layout=compact&theme=radical" alt="AlexEG" height="165">
+</p>
+</details>
 
-<!-- ![Stats Overview](https://raw.githubusercontent.com/AlexEG/github-stats/master/generated/overview.svg#gh-dark-mode-only) -->
-<!-- ![Most Used Languages](https://raw.githubusercontent.com/AlexEG/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
+<details>
+<summary><b>🏆 Github Trophies</b></summary>
+<br>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AlexEG&theme=radical&no-frame=true&no-bg=true" alt="AlexEG" />
+</p>
+</details>
+
+<details>
+<summary><b>📚 Projects</b></summary>
+<br>
+<p align="left">
+<!-- BLOG-POST-LIST:START -->
+<a href="https://github.com/AlexEG/alexeg.github.io"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexEG&repo=alexeg.github.io&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="alexeg.github.io"></a>
+ 
+<!-- BLOG-POST-LIST:END -->
+</p>
+</details>
+
+
+  
+  
+<details>
+<summary><b>⚡ Github Public Stats</b></summary>
+<br>
+
+</details>
 
 </div>
 <br>
@@ -80,52 +115,7 @@
 
 <h2 align="center">👨‍💻 More About Me on GitHub</h2>
 
-<details>
-<summary><b>🔥 Streak Stats</b></summary>
-<br>
-<p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=AlexEG&theme=radical&hide_border=true" alt="AlexEG" width="420"/>
-</p>
-</details>
 
-<details>
-<summary><b>🏆 Github Trophies</b></summary>
-<br>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AlexEG&theme=radical&no-frame=true&no-bg=true" alt="AlexEG" />
-</p>
-</details>
-
-<details>
-<summary><b>📚 Projects</b></summary>
-<br>
-<p align="left">
-<!-- BLOG-POST-LIST:START -->
-<a href="https://github.com/AlexEG/alexeg.github.io"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexEG&repo=alexeg.github.io&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="alexeg.github.io"></a>
- 
-<!-- BLOG-POST-LIST:END -->
-</p>
-</details>
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/studio-demo/cloudcash-sass/pull/1) in [studio-demo/cloudcash-sass](https://github.com/studio-demo/cloudcash-sass)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
-3. 🎉 Merged PR [#120](https://github.com/codeSTACKr/minter-dapp/pull/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-4. 🗣 Commented on [#120](https://github.com/codeSTACKr/minter-dapp/issues/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-5. ❌ Closed PR [#191](https://github.com/codeSTACKr/create-10k-nft-collection/pull/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-<!--END_SECTION:activity-->
-
-</details>
-<details>
-<summary><b>⚡ Github Public Stats</b></summary>
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AlexEG&show_icons=true&theme=radical&count_private=true" alt="AlexEG's Github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexEG&layout=compact&theme=radical" alt="AlexEG" height="165">
-</p>
-</details>
 
 
 
