@@ -35,18 +35,6 @@
 </p>
 </details>
 
-<details>
-<summary><b>📚 Projects</b></summary>
-<br>
-<p align="left">
-<!-- BLOG-POST-LIST:START -->
-<a href="https://github.com/AlexEG/alexeg.github.io"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexEG&repo=alexeg.github.io&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="alexeg.github.io"></a>
- 
-<!-- BLOG-POST-LIST:END -->
-</p>
-</details>
-
-
    
 
 
