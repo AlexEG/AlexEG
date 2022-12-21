@@ -41,20 +41,19 @@
   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)&nbsp;
 
 </details>
 
-<details open>
+<!-- <details open>
 <summary><b>🧰 Backend</b></summary>
 <br>
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge)&nbsp;
 
 </details>
 
@@ -62,20 +61,14 @@
 <summary><b>🗄️ Database</b></summary>
 <br>
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)&nbsp;
-
 </details>
-
+-->
 <details open>
-<summary><b>💻 Software and Tools</b></summary>
+<summary><b>💻 Software and Tools</b></summary> 
 <br>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
-
-
 </details>
