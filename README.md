@@ -28,13 +28,7 @@
 
 
 
-<details>
-<summary><b>🏆 Github Trophies</b></summary>
-<br>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AlexEG&theme=radical&no-frame=true&no-bg=true" alt="AlexEG" />
-</p>
-</details>
+
 
    
 
@@ -54,22 +48,7 @@
 
 </details>
 
-<!-- <details open>
-<summary><b>🧰 Backend</b></summary>
-<br>
 
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js)&nbsp;
-
-</details>
-
-<details open>
-<summary><b>🗄️ Database</b></summary>
-<br>
-
-</details>
--->
 <details open>
 <summary><b>💻 Software and Tools</b></summary> 
 <br>
@@ -83,3 +62,27 @@
 
 
 
+<!-- ===================== -->
+<!-- <details>
+<summary><b>🏆 Github Trophies</b></summary>
+<br>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AlexEG&theme=radical&no-frame=true&no-bg=true" alt="AlexEG" />
+</p>
+</details> -->
+<!-- ===================== -->
+
+
+<!-- ===================== -->
+<!-- <details open>
+<summary><b>🧰 Backend</b></summary>
+<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js)&nbsp;
+</details>
+<details open>
+<summary><b>🗄️ Database</b></summary>
+<br>
+</details>
+-->
+<!-- ===================== -->
