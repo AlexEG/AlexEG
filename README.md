@@ -36,9 +36,9 @@
    
 
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+<!-- <h2 align="center">🛠️ Languages and Tools</h2>
 
-<!-- <div align="center"> -->
+
 <details open>
 <summary><b>🏄‍♂️ Frontend</b></summary>
 <br>
@@ -49,10 +49,10 @@
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)&nbsp;
 
-</details>
+</details> -->
 
 
-<details open>
+<!-- <details open>
 <summary><b>💻 Software and Tools</b></summary> 
 <br>
 
@@ -60,7 +60,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
-</details>
+</details> -->
 
 
 
