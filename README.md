@@ -8,12 +8,14 @@
 <tbody>
   <tr>
     <td><a href="https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" alt="Image" width="320"></a><br></td>
-    <td>000110<br><br><br>0011010111001111100<br>100110010000011111101010101000000010000101<br>0001010001000<br>00101000000000000000001000000100<br>1010100000101110<br>10101000010101010<br>000101000101011101<br>01010100000101010100010</td>
+    <td><img alt="0" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img alt="0" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img alt="0" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img alt="0" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"><br><br><br>0011010111001111100<br>100110010000011111101010101000000010000101<br>0001010001000<br>00101000000000000000001000000100<br>1010100000101110<br>10101000010101010<br>000101000101011101<br>01010100000101010100010</td>
   </tr>
 </tbody>
 </table>
 
 <!-- ////////////////////////// -->
+
+
 
 
 
