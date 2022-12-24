@@ -26,8 +26,8 @@
 
 
   <tr>
-    <td class="tg-0pky"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" alt="Image" width="320"><br></td>
-    <td class="tg-0pky">555555</td>
+    <td><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" alt="Image" width="320"><br></td>
+    <td>[![Linkedin: AlexEG](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-adel-69a452249/)](https://www.linkedin.com/in/mohamed-adel-69a452249/)&nbsp;</td>
   </tr>
 </tbody>
 </table>
