@@ -1,1 +1,9 @@
-name: Waka Readmeon:  schedule:    # Runs every 4 hours    - cron: '0 */4 * * *'  workflow_dispatch:jobs:  update-readme:    name: Update Readme with Metrics    runs-on: ubuntu-latest    steps:      - uses: anmol098/waka-readme-stats@master        with:          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}          SHOW_OS: "True"          SHOW_PROJECTS: "True"          SHOW_PROFILE_VIEWS: "False"          SHOW_EDITORS: "False"          SHOW_LANGUAGE_PER_REPO: "True"          SHOW_LOC_CHART: "False"          SHOW_LINES_OF_CODE: "True"          SHOW_SHORT_INFO: "False"
+name: WakaTime
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.wakatime.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_wakatime: yes
+  plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+  plugin_wakatime_token: ${{ waka_0066419d-b6c2-4e58-b63b-e33ed8b02972 }}
