@@ -1,5 +1,5 @@
 name: WakaTime
-uses: lowlighter/metrics@latest
+uses: lowlighter/metrics@AlexEG
 with:
   filename: metrics.plugin.wakatime.svg
   token: NOT_NEEDED
