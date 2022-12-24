@@ -1,6 +1,8 @@
 # Hi there, I'm Mohamed Adel - aka AlexEG 👋 
 ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7?logo=freecodecamp&logoColor=%2349f3f2&color=%230a0a23&style=plastic)   [![wakatime](https://wakatime.com/badge/user/fbdfdc0f-d449-43dc-8090-ced03a22fe8c.svg)](https://wakatime.com/@fbdfdc0f-d449-43dc-8090-ced03a22fe8c)     ![Website](https://img.shields.io/website?down_color=%23ff0000&down_message=404&style=plastic&up_color=%230ef700&up_message=online&url=https%3A%2F%2Falexeg.github.io%2F)   ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlexEG.AlexEG)
 
+[<img alt="0" src="https://visitor-badge.glitch.me/badge?page_id=AlexEG.AlexEG">](#)
+
 <!-- 
 ![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/7b03fe4da895e14b6667c3ab9bf5f6f7?color=%23a41fac&logo=github&logoColor=%23fff&style=plastic) -->
 
