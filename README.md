@@ -24,7 +24,11 @@
 
  [<img align = "left" alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true">](https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq)   [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/AlexEG)](https://www.frontendmentor.io/profile/AlexEG)&nbsp;  [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org)](https://www.freecodecamp.org/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7)&nbsp; [![Linkedin: AlexEG](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-adel-69a452249/)](https://www.linkedin.com/in/mohamed-adel-69a452249/)&nbsp;
 
-
+545454578gh4jghkj8f4g8jgf68<br>
+ghk58746f4k64uy4k984jf<br>
+dyj54684k4654d6g8f4j65wt456r4g<br>
+we6ga54x8t6k486i4;4p86;46l54<br>
+eath5468t7y8l4o87;44oj6hw84r<br>
 
 
 
@@ -37,9 +41,11 @@
 ![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/7b03fe4da895e14b6667c3ab9bf5f6f7?color=%23a41fac&logo=github&logoColor=%23fff&style=plastic) -->
 
 
-|                     |                      |
+<!--
+ |                     |                      |
 |:--------------------|:---------------------|
 |<div align = "left">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq)</div>|<div align = "left"> [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/AlexEG)](https://www.frontendmentor.io/profile/AlexEG)&nbsp;  [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org)](https://www.freecodecamp.org/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7)&nbsp; [![Linkedin: AlexEG](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-adel-69a452249/)](https://www.linkedin.com/in/mohamed-adel-69a452249/)&nbsp;       <br><br><br>0011010111001111100<br>1001100100000010000101<br>0001010001000<br>0010100001000000100<br>1010100000101110<br>10101000010101010<br>000101000101011101<br>01010100000101010100010</div>|
+ -->
 
 
 
@@ -65,8 +71,6 @@
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq)
 
 
    
