@@ -26,13 +26,22 @@
 
 
   <tr>
+    <td><a href="https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" alt="Image" width="320"></a><br></td>
+    <td>000110</td>
+  </tr>
+</tbody>
+</table>
+<!-- ////////////////////////// -->
+<table>
+<tbody>
+  <tr>
     <td><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" alt="Image" width="320"><br></td>
-    <td>[![Linkedin: AlexEG](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-adel-69a452249/)](https://www.linkedin.com/in/mohamed-adel-69a452249/)&nbsp;</td>
+    <td></td>
   </tr>
 </tbody>
 </table>
 
-
+<a href="https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" alt="Image" width="320"></a>
 
 <!--  
  [<img align = "left" alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true">](https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq)   [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/AlexEG)](https://www.frontendmentor.io/profile/AlexEG)&nbsp;  [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org)](https://www.freecodecamp.org/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7)&nbsp; [![Linkedin: AlexEG](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-adel-69a452249/)](https://www.linkedin.com/in/mohamed-adel-69a452249/)&nbsp;
