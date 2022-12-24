@@ -17,7 +17,12 @@
 
 
  
+ 
+ <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AlexEG's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AlexEG&bg_color=141321&color=F8D866&line=fe428e&point=FFFFFF&hide_border=true&theme=github-compact" /></a>
 
+
+[![AlexEG's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlexEG&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ////////////////////////// -->
 <!-- [<img alt="0" src="https://visitor-badge.glitch.me/badge?page_id=AlexEG.AlexEG">](#) --> 
@@ -49,7 +54,6 @@
 </p>
 <!-- //////////////////////////////////// -->
  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AlexEG's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AlexEG&bg_color=141321&color=F8D866&line=fe428e&point=FFFFFF&hide_border=true" /></a>
 <!-- //////////////////////////////////// -->
 
