@@ -17,12 +17,6 @@
 
 
  
- 
- <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AlexEG's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AlexEG&bg_color=141321&color=F8D866&line=fe428e&point=FFFFFF&hide_border=true&theme=github-compact" /></a>
-
-
-[![AlexEG's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlexEG&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ////////////////////////// -->
 <!-- [<img alt="0" src="https://visitor-badge.glitch.me/badge?page_id=AlexEG.AlexEG">](#) --> 
@@ -38,27 +32,23 @@
 
 
 
-
-
-
-<!-- ## I'm a College student, Egyptian, Developer, and Freelancer!! -->
-
-
-
 <!-- ///////////////////////////// -->
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=AlexEG&theme=radical&hide_border=true" alt="AlexEG" width="420"/>
+<a href="https://github.com/AlexEG"><img src="http://github-readme-streak-stats.herokuapp.com?user=AlexEG&theme=radical&hide_border=true" alt="AlexEG" width="420"/></a>
 </p>
  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AlexEG&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="AlexEG's Github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexEG&layout=compact&theme=radical&hide_border=true" alt="AlexEG" height="165">
+<a href="https://github.com/AlexEG"><img src="https://github-readme-stats.vercel.app/api?username=AlexEG&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="AlexEG's Github stats" width="420"/></a>&nbsp;<a href="https://github.com/AlexEG"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexEG&layout=compact&theme=radical&hide_border=true" alt="AlexEG" height="165"></a>
 </p>
-<!-- //////////////////////////////////// -->
  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AlexEG's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AlexEG&bg_color=141321&color=F8D866&line=fe428e&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/AlexEG"><img alt="AlexEG's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AlexEG&bg_color=141321&color=F8D866&line=fe428e&point=FFFFFF&hide_border=true" /></a>
+  
 <!-- //////////////////////////////////// -->
 
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
 
 
 
