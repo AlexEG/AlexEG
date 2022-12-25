@@ -30,49 +30,14 @@ $${\color{lightblue} A \space little \space more \space about \space me }$$
 
 
 <!-- ////////////////////////// -->
-
 <!--=========[ CodePen ]=========-->
 <!-- <a href="https://codepen.io/Alexander_EG" target="_blank"><img src="https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/Alexander_EG" alt="CodePen"></a> -->
 <!--=============================-->
-
 <!-- ////////////////////////// -->
 <!-- [<img alt="0" src="https://visitor-badge.glitch.me/badge?page_id=AlexEG.AlexEG">](#) --> 
 <!-- <a href="#" target="_blank"><img src="" alt="00"></a> -->
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev) --> 
-
 <!-- ////////////////////////// -->
-   
-
-
-<!-- <h2 align="center">🛠️ Languages and Tools</h2>
-
-
-<details open>
-<summary><b>🏄‍♂️ Frontend</b></summary>
-<br>
-  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)&nbsp;
-
-</details> -->
-
-
-<!-- <details open>
-<summary><b>💻 Software and Tools</b></summary> 
-<br>
-
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
-</details> -->
-
-
-
-
 <!-- ===================== -->
 <!-- <details>
 <summary><b>🏆 Github Trophies</b></summary>
@@ -82,20 +47,6 @@ $${\color{lightblue} A \space little \space more \space about \space me }$$
 </p>
 </details> -->
 <!-- ===================== -->
-
-
-<!-- ===================== -->
-<!-- <details open>
-<summary><b>🧰 Backend</b></summary>
-<br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js)&nbsp;
-</details>
-<details open>
-<summary><b>🗄️ Database</b></summary>
-<br>
-</details>
--->
 <!-- ===================== -->
 <!--
  <table>
