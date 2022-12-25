@@ -1,11 +1,6 @@
 # Hi there, I'm Mohamed Adel - aka AlexEG 👋 
 [<img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7?logo=freecodecamp&logoColor=%2349f3f2&color=%230a0a23&style=plastic">](https://www.freecodecamp.org/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7)   [![wakatime](https://wakatime.com/badge/user/fbdfdc0f-d449-43dc-8090-ced03a22fe8c.svg)](https://wakatime.com/@fbdfdc0f-d449-43dc-8090-ced03a22fe8c)    [<img alt="Website" src="https://img.shields.io/website?down_color=%23ff0000&down_message=404&style=plastic&up_color=%230ef700&up_message=online&url=https%3A%2F%2Falexeg.github.io%2F">](https://alexeg.github.io/)   [<img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=AlexEG.AlexEG">](https://github.com/AlexEG)
-
-
-
-
 <!-- /////////////////////// -->
-
 <table>
 <tbody>
   <tr>
@@ -14,10 +9,27 @@
   </tr>
 </tbody>
 </table>
+<!-- ////////////////////////// -->
+
+$${\color{lightblue} A \space little \space more \space about \space me }$$
+
+<!-- ////////////////////////// -->
+<p align="center">
+<a href="https://github.com/AlexEG"><img src="http://github-readme-streak-stats.herokuapp.com?user=AlexEG&theme=radical&hide_border=true" alt="AlexEG" width="420"/></a>
+</p>
+ <p align="center">
+<a href="https://github.com/AlexEG"><img src="https://github-readme-stats.vercel.app/api?username=AlexEG&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="AlexEG's Github stats" width="420"/></a>&nbsp;<a href="https://github.com/AlexEG"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexEG&layout=compact&theme=radical&hide_border=true" alt="AlexEG" height="165"></a>
+</p>
+ <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <a href="https://github.com/AlexEG"><img alt="AlexEG's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AlexEG&bg_color=141321&color=F8D866&line=fe428e&point=FFFFFF&hide_border=true" /></a>
+<!-- ////////////////////////// -->
 
 
 
 
+
+
+<!-- ////////////////////////// -->
 
 <!--=========[ CodePen ]=========-->
 <!-- <a href="https://codepen.io/Alexander_EG" target="_blank"><img src="https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/Alexander_EG" alt="CodePen"></a> -->
@@ -29,36 +41,6 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev) --> 
 
 <!-- ////////////////////////// -->
-
-
-
-
-
-
-
-
-
-
-<!-- ///////////////////////////// -->
-<p align="center">
-<a href="https://github.com/AlexEG"><img src="http://github-readme-streak-stats.herokuapp.com?user=AlexEG&theme=radical&hide_border=true" alt="AlexEG" width="420"/></a>
-</p>
- <p align="center">
-<a href="https://github.com/AlexEG"><img src="https://github-readme-stats.vercel.app/api?username=AlexEG&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="AlexEG's Github stats" width="420"/></a>&nbsp;<a href="https://github.com/AlexEG"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexEG&layout=compact&theme=radical&hide_border=true" alt="AlexEG" height="165"></a>
-</p>
- <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/AlexEG"><img alt="AlexEG's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AlexEG&bg_color=141321&color=F8D866&line=fe428e&point=FFFFFF&hide_border=true" /></a>
-  
-<!-- //////////////////////////////////// -->
-
-
-
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-
    
 
 
@@ -115,7 +97,6 @@
 </details>
 -->
 <!-- ===================== -->
-
 <!--
  <table>
 <thead>
