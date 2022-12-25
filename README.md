@@ -4,15 +4,13 @@
 
 
 
-<a href="#"><img src="https://skillicons.dev/icons?i=js,html,css" alt="My Skills"></a>
-
 <!-- /////////////////////// -->
 
 <table>
 <tbody>
   <tr>
     <td><a href="https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" alt="spotify-github-profile"></a><br></td>
-    <td><a href="https://www.frontendmentor.io/profile/AlexEG" target="_blank"><img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/AlexEG" alt="Frontend Mentor"></a>    <a href="https://www.freecodecamp.org/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7" target="_blank"><img src="https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org" alt="FreeCodeCamp"></a>    <a href="https://www.linkedin.com/in/mohamed-adel-69a452249/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-adel-69a452249/" alt="Linkedin"></a>   <br><br><br><br><br><br><br><br>0011010111001111100<br>100110010000011111101010101000000010000101<br>0001010001000<br>00101000000000000000001000000100<br>1010100000101110<br>10101000010101010<br>000101000101011101<br><br><a href="#"><img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,cpp,md" alt="My Skills"></a></td>
+    <td><a href="https://www.frontendmentor.io/profile/AlexEG" target="_blank"><img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/AlexEG" alt="Frontend Mentor"></a>    <a href="https://www.freecodecamp.org/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7" target="_blank"><img src="https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org" alt="FreeCodeCamp"></a>    <a href="https://www.linkedin.com/in/mohamed-adel-69a452249/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-adel-69a452249/" alt="Linkedin"></a>   <br><br><br><br><br><br><br><br>0011010111001111100<br>100110010000011111101010101000000010000101<br>0001010001000<br>00101000000000000000001000000100<br>1010100000101110<br>10101000010101010<br><p align="center">Language I have mastered</p><br><a href="#"><img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,cpp,md" alt="My Skills"></a></td>
   </tr>
 </tbody>
 </table>
