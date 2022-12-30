@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed Adel - aka AlexEG 👋 
 [<img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7?logo=freecodecamp&logoColor=%2349f3f2&color=%230a0a49&style=plastic">](https://www.freecodecamp.org/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7) [![Coding
- Time](https://wakatime.com/badge/user/fbdfdc0f-d449-43dc-8090-ced03a22fe8c.svg)](https://wakatime.com/@fbdfdc0f-d449-43dc-8090-ced03a22fe8c) [<img alt="Website" src="https://img.shields.io/website?down_color=%23ff0000&down_message=404&style=plastic&up_color=%230ef700&up_message=online&url=https%3A%2F%2Falexeg.github.io%2F">](https://alexeg.github.io/) [<img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=AlexEG.AlexEG">](https://github.com/AlexEG) <img src="https://github.com/AlexEG/Projects__History/blob/main/github-profile/cs50/cs50%200.gif" alt="AlexEG" height="22">
+ Time](https://wakatime.com/badge/user/fbdfdc0f-d449-43dc-8090-ced03a22fe8c.svg)](https://wakatime.com/@fbdfdc0f-d449-43dc-8090-ced03a22fe8c) [<img alt="Website" src="https://img.shields.io/website?down_color=%23ff0000&down_message=404&style=plastic&up_color=%230ef700&up_message=online&url=https%3A%2F%2Falexeg.github.io%2F">](https://alexeg.github.io/) [<img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=AlexEG.AlexEG">](https://github.com/AlexEG) <img src="https://github.com/AlexEG/Projects__History/blob/main/github-profile/cs50/cs50%201.gif" alt="AlexEG" height="22">
 <table>
 <tbody>
   <tr>
