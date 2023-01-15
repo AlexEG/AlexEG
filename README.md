@@ -18,10 +18,8 @@ $${\color{lightblue} A \space little \space more \space about \space me }$$
 <p align="center">
 <a href="https://github.com/AlexEG"><img src="http://github-readme-streak-stats.herokuapp.com?user=AlexEG&theme=radical&hide_border=true" alt="AlexEG" width="420"/></a>
 </p>
-
-
  <p align="center">
-<a href="https://github.com/AlexEG"><img src="https://github-readme-stats.vercel.app/api?username=AlexEG&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="AlexEG's Github stats" width="420"/></a>&nbsp;<a href="https://github.com/AlexEG"><img src="https://github-readme-stats.vercel.app/api?username=AlexEG&layout=compact&theme=radical&hide_border=true" alt="AlexEG" height="165"></a>
+<a href="https://github.com/AlexEG"><img src="https://github-readme-stats.vercel.app/api?username=AlexEG&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="AlexEG's Github stats" width="420"/></a>&nbsp;<a href="https://github.com/AlexEG"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexEG&layout=compact&theme=radical&hide_border=true" alt="AlexEG" height="165"></a>
 </p>
 
  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
