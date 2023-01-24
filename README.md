@@ -28,7 +28,7 @@ $${\color{lightblue} A \space little \space more \space about \space me }$$
 
 
 
-$${\color{red} My \space favorite \space books }$$
+$${\color{#ff0044} My \space favorite \space books }$$
 
 <table align="center">
 <tbody>
