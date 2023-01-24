@@ -26,8 +26,6 @@ $${\color{lightblue} A \space little \space more \space about \space me }$$
 
 <a href="https://github.com/AlexEG"><img alt="AlexEG's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AlexEG&bg_color=141321&color=F8D866&line=fe428e&point=FFFFFF&hide_border=true" /></a>
 
-
-
 $${\color{#ff0044} My \space favorite \space books }$$
 
 <table align="center">
