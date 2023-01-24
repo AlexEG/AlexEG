@@ -4,7 +4,7 @@
  Time](https://wakatime.com/badge/user/fbdfdc0f-d449-43dc-8090-ced03a22fe8c.svg)](https://wakatime.com/@fbdfdc0f-d449-43dc-8090-ced03a22fe8c) [<img alt="Website" src="https://img.shields.io/website?down_color=%23ff0000&down_message=404&style=plastic&up_color=%230ef700&up_message=online&url=https%3A%2F%2Falexeg.github.io%2F">](https://alexeg.github.io/) [<img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=AlexEG.AlexEG">](https://github.com/AlexEG) <img src="https://github.com/AlexEG/Projects__History/blob/main/github-profile/cs50/cs50%203.gif" alt="AlexEG" height="22">
 <!-- [![](https://visitcount.itsvg.in/api?id=AlexEG&label=Profile%20Views&color=11&icon=5&pretty=true)](https://github.com/AlexEG) -->
 
-<table>
+<table align="center">
 <tbody>
   <tr>
     <td><a href="https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" alt="spotify-github-profile" width="320"></a><br></td>
@@ -25,3 +25,16 @@ $${\color{lightblue} A \space little \space more \space about \space me }$$
  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <a href="https://github.com/AlexEG"><img alt="AlexEG's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AlexEG&bg_color=141321&color=F8D866&line=fe428e&point=FFFFFF&hide_border=true" /></a>
+
+
+
+$${\color{red} My \space favorite \space books }$$
+
+<table align="center">
+<tbody>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
