@@ -34,7 +34,7 @@ $${\color{red} My \space favorite \space books }$$
 <tbody>
   <tr>
     <td><img src="./images/books/you don't know JS up & going.webp"></td>
-    <td></td>
+    <td><img src="./images/books/CSS Master 2nd edition.webp"></td>
   </tr>
 </tbody>
 </table>
