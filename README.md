@@ -36,3 +36,10 @@ $${\color{#ff0044} My \space favorite \space books }$$
   </tr>
 </tbody>
 </table> -->
+<!--
+Wakatime Week Stats
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexEG&langs_count=8&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" />
+
+
+ https://wakatime.com/@AlexEG/projects/cvbnaowqvb?start=2023-02-05&end=2023-02-11 -->
+
