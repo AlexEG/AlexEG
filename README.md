@@ -22,24 +22,6 @@ $${\color{lightblue} A \space little \space more \space about \space me }$$
 <a href="https://github.com/AlexEG"><img src="https://github-readme-stats.vercel.app/api?username=AlexEG&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="AlexEG's Github stats" width="420"/></a>&nbsp;<a href="https://github.com/AlexEG"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexEG&layout=compact&theme=radical&hide_border=true" alt="AlexEG" height="165"></a>
 </p>
 
- <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
 <a href="https://github.com/AlexEG"><img alt="AlexEG's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AlexEG&bg_color=141321&color=F8D866&line=fe428e&point=FFFFFF&hide_border=true" /></a>
-<!-- 
-$${\color{#ff0044} My \space favorite \space books }$$
 
-<table align="center">
-<tbody>
-  <tr>
-    <td><img src="./images/books/you don't know JS up & going.webp"></td>
-    <td><img src="./images/books/CSS Master 2nd edition.webp"></td>
-  </tr>
-</tbody>
-</table> -->
-<!--
-Wakatime Week Stats
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexEG&langs_count=8&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" />
-
-
- https://wakatime.com/@AlexEG/projects/cvbnaowqvb?start=2023-02-05&end=2023-02-11 -->
-
+<!-- $${\color{#ff0044} My \space favorite \space books }$$ -->
