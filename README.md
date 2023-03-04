@@ -13,7 +13,10 @@
 </tbody>
 </table>
 
-$${\color{lightblue} A \space little \space more \space about \space me }$$
+$${ A \space little \space more \space about \space me }$$
+
+
+
 
 <p align="center">
 <a href="https://github.com/AlexEG"><img src="http://github-readme-streak-stats.herokuapp.com?user=AlexEG&theme=radical&hide_border=true" alt="AlexEG" width="420"/></a>
