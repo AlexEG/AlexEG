@@ -3,7 +3,6 @@
  
  
 <!--  <img src="https://github.com/AlexEG/Projects__History/blob/main/github-profile/cs50/cs50%207.gif" alt="AlexEG" height="22"> -->
-href="https://discord.com/users/748017288476622960"
 
 
 <table align="center">
