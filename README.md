@@ -2,7 +2,7 @@
  Time](https://wakatime.com/badge/user/fbdfdc0f-d449-43dc-8090-ced03a22fe8c.svg)](https://wakatime.com/@fbdfdc0f-d449-43dc-8090-ced03a22fe8c) [<img alt="Website" src="https://img.shields.io/website?down_color=%23ff0000&down_message=404&style=plastic&up_color=%230ef700&up_message=online&url=https%3A%2F%2Falexeg.github.io%2F">](https://alexeg.github.io/)   <img alt="codewars" src="https://www.codewars.com/users/AlexEG/badges/micro">
  
 <!-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCCY9Ko4o2jWGZMWP5u2nSsQ?style=social) -->
- [<img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=AlexEG.AlexEG">](https://github.com/AlexEG)
+<!--  [<img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=AlexEG.AlexEG">](https://github.com/AlexEG) -->
 <!--  <img src="https://github.com/AlexEG/Projects__History/blob/main/github-profile/cs50/cs50%207.gif" alt="AlexEG" height="22"> -->
 
 
