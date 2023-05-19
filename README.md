@@ -1,7 +1,8 @@
 [<img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7?logo=freecodecamp&logoColor=%2349f3f2&color=%230a0a49&style=plastic">](https://www.freecodecamp.org/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7) [![Coding
  Time](https://wakatime.com/badge/user/fbdfdc0f-d449-43dc-8090-ced03a22fe8c.svg)](https://wakatime.com/@fbdfdc0f-d449-43dc-8090-ced03a22fe8c) [<img alt="Website" src="https://img.shields.io/website?down_color=%23ff0000&down_message=404&style=plastic&up_color=%230ef700&up_message=online&url=https%3A%2F%2Falexeg.github.io%2F">](https://alexeg.github.io/)   <img alt="codewars" src="https://www.codewars.com/users/AlexEG/badges/micro">
  
-<!--  [<img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=AlexEG.AlexEG">](https://github.com/AlexEG) -->
+<!-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCCY9Ko4o2jWGZMWP5u2nSsQ?style=social) -->
+ [<img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=AlexEG.AlexEG">](https://github.com/AlexEG)
 <!--  <img src="https://github.com/AlexEG/Projects__History/blob/main/github-profile/cs50/cs50%207.gif" alt="AlexEG" height="22"> -->
 
 
@@ -19,10 +20,19 @@
 
 $${ A \space little \space more \space about \space me }$$
 
-<p align="center">
-<a href="https://github.com/AlexEG"><img src="http://github-readme-streak-stats.herokuapp.com?user=AlexEG&theme=radical&hide_border=true" alt="AlexEG" width="420"/></a>
-</p>
- <p align="center">
-<a href="https://github.com/AlexEG"><img src="https://github-readme-stats.vercel.app/api?username=AlexEG&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="AlexEG's Github stats" width="420"/></a>&nbsp;<a href="https://github.com/AlexEG"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexEG&layout=compact&theme=radical&hide_border=true" alt="AlexEG" height="165"></a>
-</p>
-<a href="https://github.com/AlexEG"><img alt="AlexEG's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AlexEG&bg_color=141321&color=F8D866&line=fe428e&point=FFFFFF&hide_border=true" /></a>
+
+<details align="center">
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexEG&hide_border=true&card_width=420&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexEG&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="AlexEG's Github stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexEG&layout=compact&hide_border=true&theme=radical" alt="AlexEG" height="165" />
+</div>
+
+
+<div align="center">
+  <img alt="AlexEG's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AlexEG&bg_color=141321&color=F8D866&line=fe428e&point=FFFFFF&hide_border=true" />
+</div>
+</details>
