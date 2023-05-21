@@ -28,7 +28,7 @@
 $${ A \space little \space more \space about \space me }$$
 
 
-<details align="center">
+<!-- <details align="center"> -->
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexEG&hide_border=true&card_width=420&theme=radical" />
 </div>
@@ -42,4 +42,4 @@ $${ A \space little \space more \space about \space me }$$
 <div align="center">
   <img alt="AlexEG's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AlexEG&bg_color=141321&color=F8D866&line=fe428e&point=FFFFFF&hide_border=true" />
 </div>
-</details>
+<!-- </details> -->
