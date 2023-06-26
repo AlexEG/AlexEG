@@ -25,10 +25,13 @@
 <!--  <a href="https://profile.edx.org/u/AlexEG_01"> <img src="http://static.projects.iq.harvard.edu/files/styles/os_files_large/public/cs50xthailand/files/cs50-1.png?m=1564536173&itok=QhQ9tjnm" width="48" alt="harvard CS50"/></a> -->
 
 
-$${ A \space little \space more \space about \space me }$$
+<!-- $${ A \space little \space more \space about \space me }$$ -->
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexEG&theme=radical&custom_title=Coding%20Activities%20Last%207%20Days&hide_border=true" />
+</div>
 
-<!-- <details align="center"> -->
+<!-- <details align="center"> 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexEG&hide_border=true&card_width=420&theme=radical" />
 </div>
@@ -43,4 +46,4 @@ $${ A \space little \space more \space about \space me }$$
   <img alt="AlexEG's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AlexEG&bg_color=141321&color=F8D866&line=fe428e&point=FFFFFF&hide_border=true" />
 
 </div>
-<!-- </details> -->
+</details> -->
