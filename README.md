@@ -16,6 +16,7 @@
     <img src="./images/icons/Sass.svg" width="50" alt="I’m currently learning">
     <img src="./images/icons/TailwindCSS-Dark.svg" width="50" alt="I’m currently learning">
     <img src="./images/icons/JavaScript.svg" width="50" alt="I’m currently learning">
+    <img src="./images/icons/TypeScript.svg" width="50" alt="I’m currently learning">
     <img src="./images/icons/Netlify-Dark.svg" width="50" alt="I’m currently learning">
     </td>
   </tr>
