@@ -9,7 +9,7 @@
     <h4 align="center">Exploring Now</h4>
      <img src="./images/icons/React-Dark.svg" width="50" alt="react"> 
      <img src="./images/icons/GoLang.svg" width="50" alt="GoLang"> 
-     <img src="./images/icons/svg-dark.svg" width="50" alt="HTML SVG"> 
+     <img src="./images/icons/SVG-Dark.svg" width="50" alt="HTML SVG"> 
     <h4 align="center">My Tech Toolkit</h4>
     <img src="./images/icons/TailwindCSS-Dark.svg" width="50" alt="TailwindCSS">
     <img src="./images/icons/TypeScript.svg" width="50" alt="TypeScript">
