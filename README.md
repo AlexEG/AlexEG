@@ -5,12 +5,12 @@
 <tbody>
   <tr>
     <td width="320"><a href="https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq?si=276f333629f5422b" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" alt="spotify-github-profile" /></a><img src="https://spotify-recently-played-readme.vercel.app/api?user=31pdpcquhjbfdyqmhp6j6sy3xaxq&count=5&unique=false" alt="Spotify recently played" /></td>
-    <td><a href="https://www.frontendmentor.io/profile/AlexEG" target="_blank"><img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/AlexEG" alt="Frontend Mentor"></a> &nbsp;  <a href="https://www.freecodecamp.org/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7" target="_blank"><img src="https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org" alt="FreeCodeCamp"></a> <br><br>Every individual has the potential to create change,  whether <br> in their life, their community, or the world.<br> The transformative power of education is what unlocks <br>that potential. <a href="https://www.edx.org/"><h6>edx.org</h6</a> 
-    <h4 align="center">Exploring Now</h4>
+    <td><a href="https://www.frontendmentor.io/profile/AlexEG" target="_blank"><img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/AlexEG" alt="Frontend Mentor"></a> &nbsp;  <a href="https://www.freecodecamp.org/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7" target="_blank"><img src="https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org" alt="FreeCodeCamp"></a> <br><br>Every individual has the potential to create change,  whether <br> in their life, their community, or the world.<br> The transformative power of education is what unlocks <br>that potential.<br> — <a href="www.edx.org" target="_blank" >edx.org</a> 
+    <p align="center"><b>Exploring Now</b></p>
      <img src="./images/icons/React-Dark.svg" width="50" alt="react"> 
      <img src="./images/icons/GoLang.svg" width="50" alt="GoLang"> 
      <img src="./images/icons/SVG-Dark.svg" width="50" alt="HTML SVG"> 
-    <h4 align="center">My Tech Toolkit</h4>
+    <p align="center"><b>My Tech Toolkit</b></p>
     <img src="./images/icons/TailwindCSS-Dark.svg" width="50" alt="TailwindCSS">
     <img src="./images/icons/TypeScript.svg" width="50" alt="TypeScript">
      <img src="./images/icons/Electron.svg" width="50" alt="Electron">
