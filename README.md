@@ -42,3 +42,7 @@ $${ A \space little \space more \space about \space me }$$
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexEG&theme=radical&custom_title=Programming%20languages%20used%20since%20Dec%2022,%202022&hide_border=true" />
   </div> 
 </details>
+
+<div align="center">
+  <img src="./example.svg" width="400" height="400" alt="css-in-readme">
+</div>
