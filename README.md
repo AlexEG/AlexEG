@@ -5,15 +5,20 @@
   <tr>
     <td width="320"><a href="https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq?si=276f333629f5422b" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" alt="spotify-github-profile" /></a><img src="https://spotify-recently-played-readme.vercel.app/api?user=31pdpcquhjbfdyqmhp6j6sy3xaxq&count=5&unique=false" alt="Spotify recently played" /></td>
     <td>Every individual has the potential to create change,  whether <br> in their life, their community, or the world.<br> The transformative power of education is what unlocks <br>that potential.<br> — <a href="www.edx.org" target="_blank" >edx.org</a> 
-    <p align="center"><b>Exploring Now</b></p>
-     <img src="./images/gif/small/go/go-time-15.gif" width="50" alt="GoLang" loading="lazy"> 
-     <img src="./images/icons/SVG-Dark.svg" width="50" alt="HTML SVG"> 
-    <p align="center"><b>My Tech Toolkit</b></p>
-    <img src="./images/icons/TailwindCSS-Dark.svg" width="50" alt="TailwindCSS">
-    <img src="./images/gif/small/ts/ts-time-675.gif" width="50" alt="TypeScript" title="TS/JS" loading="lazy">
-     <img src="./images/icons/Electron.svg" width="50" alt="Electron">
-     <img src="./images/icons/NodeJS-Dark.svg" width="50" alt="NodeJS">
-    <img src="./images/icons/Vite-Dark.svg" width="50" alt="Vite">
+      </br>
+      </br>
+      </br>
+      </br>
+      </br>
+      <p align="center"><b>Exploring Now</b></p>
+      <img src="./images/gif/small/go/go-time-15.gif" width="50" alt="GoLang" loading="lazy"> 
+      <img src="./images/icons/SVG-Dark.svg" width="50" alt="HTML SVG"> 
+      <p align="center"><b>My Tech Toolkit</b></p>
+      <img src="./images/icons/TailwindCSS-Dark.svg" width="50" alt="TailwindCSS">
+      <img src="./images/gif/small/ts/ts-time-675.gif" width="50" alt="TypeScript" title="TS/JS" loading="lazy">
+      <img src="./images/icons/Electron.svg" width="50" alt="Electron">
+      <img src="./images/icons/NodeJS-Dark.svg" width="50" alt="NodeJS">
+      <img src="./images/icons/Vite-Dark.svg" width="50" alt="Vite">
     </td>
   </tr>
 </tbody>
