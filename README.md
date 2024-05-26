@@ -12,7 +12,7 @@
      <img src="./images/icons/SVG-Dark.svg" width="50" alt="HTML SVG"> 
     <p align="center"><b>My Tech Toolkit</b></p>
     <img src="./images/icons/TailwindCSS-Dark.svg" width="50" alt="TailwindCSS">
-    <img src="./images/gif/small/ts/ts-time-400.gif" width="50" alt="TypeScript">
+    <img src="./images/gif/small/ts/ts-time-675.gif" width="50" alt="TypeScript" title="TS/JS">
      <img src="./images/icons/Electron.svg" width="50" alt="Electron">
      <img src="./images/icons/NodeJS-Dark.svg" width="50" alt="NodeJS">
     <img src="./images/icons/Vite-Dark.svg" width="50" alt="Vite">
