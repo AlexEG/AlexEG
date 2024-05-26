@@ -28,17 +28,17 @@ $${ A \space little \space more \space about \space me }$$
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexEG&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="AlexEG's Github stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexEG&layout=compact&hide_border=true&theme=radical" alt="AlexEG" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexEG&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="AlexEG's Github stats" height="165" loading="lazy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexEG&layout=compact&hide_border=true&theme=radical" alt="AlexEG" height="165" loading="lazy" />
 </div>
 
 <div align="center">
-  <img alt="AlexEG's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AlexEG&bg_color=141321&color=F8D866&line=fe428e&point=FFFFFF&hide_border=true" />
+  <img alt="AlexEG's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AlexEG&bg_color=141321&color=F8D866&line=fe428e&point=FFFFFF&hide_border=true" loading="lazy" />
 </div>
 
 <details>
   <summary>Code Time Summary</summary>
   <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexEG&theme=radical&custom_title=Programming%20languages%20used%20since%20Dec%2022,%202022&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexEG&theme=radical&custom_title=Programming%20languages%20used%20since%20Dec%2022,%202022&hide_border=true" loading="lazy" />
   </div> 
 </details>
