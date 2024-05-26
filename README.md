@@ -8,11 +8,11 @@
     <td><a href="https://www.frontendmentor.io/profile/AlexEG" target="_blank"><img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/AlexEG" alt="Frontend Mentor"></a> &nbsp;  <a href="https://www.freecodecamp.org/fcc4dcee3ab-a388-4f70-9ad9-0ac52ed81dc7" target="_blank"><img src="https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org" alt="FreeCodeCamp"></a> <br><br>Every individual has the potential to create change,  whether <br> in their life, their community, or the world.<br> The transformative power of education is what unlocks <br>that potential.<br> — <a href="www.edx.org" target="_blank" >edx.org</a> 
     <p align="center"><b>Exploring Now</b></p>
      <img src="./images/icons/React-Dark.svg" width="50" alt="react"> 
-     <img src="./images/gif/golangtime15.gif" width="50" alt="GoLang"> 
+     <img src="./images/gif/small/go/go-time-15.gif" width="50" alt="GoLang"> 
      <img src="./images/icons/SVG-Dark.svg" width="50" alt="HTML SVG"> 
     <p align="center"><b>My Tech Toolkit</b></p>
     <img src="./images/icons/TailwindCSS-Dark.svg" width="50" alt="TailwindCSS">
-    <img src="./images/icons/TypeScript.svg" width="50" alt="TypeScript">
+    <img src="./images/gif/small/ts/ts-time-400.gif" width="50" alt="TypeScript">
      <img src="./images/icons/Electron.svg" width="50" alt="Electron">
      <img src="./images/icons/NodeJS-Dark.svg" width="50" alt="NodeJS">
     <img src="./images/icons/Vite-Dark.svg" width="50" alt="Vite">
