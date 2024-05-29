@@ -53,7 +53,14 @@ $$ \large \color{#fe428e} A \space little \space more \space about \space me $$
     <img src="https://wakatime.com/share/@AlexEG/2cce3900-5c04-4297-b49a-d003dc41e001.svg" alt="AlexEG's Coding Activity (Table) - last year" loading="lazy" />
   </div>
 </details>
- 
+
+<details>
+  <summary>Editors</summary>
+  <div align="center">
+    <img src="https://wakatime.com/share/@AlexEG/64a9f6fb-cf3e-4aa9-bb74-34ffe2563e2a.svg" alt="AlexEG's Coding Activity (Table) - last year" loading="lazy" width="500" />
+  </div>
+</details>
+
  <!--
 > [!IMPORTANT]\
 > Feel free to reuse or adapt any part of my code for your own profile. If you need any assistance or have questions, don’t hesitate to reach out. I’m always happy to help!
