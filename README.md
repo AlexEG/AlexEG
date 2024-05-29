@@ -25,7 +25,9 @@
 </tbody>
 </table>
 
-$${ A \space little \space more \space about \space me }$$
+$$
+\large \color{#fe428e}{A \space little \space more \space about \space me}
+$$
 
 <div align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexEG&hide_border=true&card_width=420&theme=radical" />
