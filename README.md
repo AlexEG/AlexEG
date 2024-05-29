@@ -45,7 +45,15 @@ $$ \large \color{#fe428e} A \space little \space more \space about \space me $$
   <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexEG&theme=radical&custom_title=Programming%20languages%20used%20since%20Dec%2022,%202022&hide_border=true" loading="lazy" />
   </div> 
- </details>
+</details>
+
+<details>
+  <summary>Code Activity (Table)</summary>
+  <div align="center">
+    <img src="https://wakatime.com/share/@AlexEG/2cce3900-5c04-4297-b49a-d003dc41e001.svg" alt="AlexEG's Coding Activity (Table) - last year" loading="lazy" />
+  </div>
+</details>
+ 
  <!--
 > [!IMPORTANT]\
 > Feel free to reuse or adapt any part of my code for your own profile. If you need any assistance or have questions, don’t hesitate to reach out. I’m always happy to help!
