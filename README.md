@@ -43,10 +43,16 @@ $$ \large \color{#fe428e} A \space little \space more \space about \space me $$
 <details>
   <summary>Want more</summary>
   <br/>
-  <details>
+<!--   <details>
     <summary>&nbsp;Coding Time Summary (All)</summary>
     <div align="center">
      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexEG&theme=radical&custom_title=Programming%20languages%20used%20since%20Dec%2022,%202022&hide_border=true" loading="lazy" />
+    </div> 
+  </details> -->
+  <details>
+    <summary>&nbsp;Coding Time Summary (All)</summary>
+    <div align="center">
+     <img src="https://wakatime.com/share/@AlexEG/c0a6a1db-52af-45f5-a2b2-2e01b345e121.svg" loading="lazy" />
     </div> 
   </details>
   <details>
