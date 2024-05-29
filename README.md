@@ -11,12 +11,12 @@
       </br>
       </br>
       <p align="center"><b>Exploring Now</b></p>
-      <img src="./images/gif/small/go/go-time-15.gif" width="50" alt="GoLang" loading="lazy"> 
+      <img src="./images/gif/small/go/go-time-25.gif" width="50" alt="GoLang" loading="lazy"> 
       <img src="./images/icons/SVG-Dark.svg" width="50" alt="HTML SVG"> 
       <img src="./images/icons/githubactions.svg" width="50" alt="GitHub Actions" title="GitHub Actions"> 
       <p align="center"><b>My Tech Toolkit</b></p>
       <img src="./images/icons/TailwindCSS-Dark.svg" width="50" alt="TailwindCSS">
-      <img src="./images/gif/small/ts/ts-time-675.gif" width="50" alt="TypeScript" title="TS/JS" loading="lazy">
+      <img src="./images/gif/small/ts/ts-time-725.gif" width="50" alt="TypeScript" title="TS/JS" loading="lazy">
       <img src="./images/icons/Electron.svg" width="50" alt="Electron">
       <img src="./images/icons/NodeJS-Dark.svg" width="50" alt="NodeJS">
       <img src="./images/icons/Vite-Dark.svg" width="50" alt="Vite">
