@@ -41,25 +41,35 @@ $$ \large \color{#fe428e} A \space little \space more \space about \space me $$
 </div>
 
 <details>
-  <summary>Code Time Summary</summary>
-  <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexEG&theme=radical&custom_title=Programming%20languages%20used%20since%20Dec%2022,%202022&hide_border=true" loading="lazy" />
-  </div> 
+  <summary>Want more</summary>
+  <br/>
+  <details>
+    <summary>&nbsp;Coding Time Summary (All)</summary>
+    <div align="center">
+     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexEG&theme=radical&custom_title=Programming%20languages%20used%20since%20Dec%2022,%202022&hide_border=true" loading="lazy" />
+    </div> 
+  </details>
+  <details>
+    <summary>&nbsp;Coding Time Summary (Last 30 Days)</summary>
+    <div align="center">
+     <img src="https://wakatime.com/share/@AlexEG/3800f954-5d54-447b-b97e-3ba55d287dca.svg" loading="lazy" />
+    </div> 
+  </details>
+  <details>
+    <summary>&nbsp;Editors (All)</summary>
+    <div align="center">
+      <img src="https://wakatime.com/share/@AlexEG/64a9f6fb-cf3e-4aa9-bb74-34ffe2563e2a.svg" alt="AlexEG's Coding Activity (Table) - last year" loading="lazy" width="500" />
+    </div>
+  </details>
+  <details>
+    <summary>&nbsp;Coding Activity heatmap</summary>
+    <div align="center">
+      <img src="https://wakatime.com/share/@AlexEG/2cce3900-5c04-4297-b49a-d003dc41e001.svg" alt="AlexEG's Coding Activity (Table) - last year" loading="lazy" />
+    </div>
+  </details>
 </details>
 
-<details>
-  <summary>Code Activity (Table)</summary>
-  <div align="center">
-    <img src="https://wakatime.com/share/@AlexEG/2cce3900-5c04-4297-b49a-d003dc41e001.svg" alt="AlexEG's Coding Activity (Table) - last year" loading="lazy" />
-  </div>
-</details>
 
-<details>
-  <summary>Editors</summary>
-  <div align="center">
-    <img src="https://wakatime.com/share/@AlexEG/64a9f6fb-cf3e-4aa9-bb74-34ffe2563e2a.svg" alt="AlexEG's Coding Activity (Table) - last year" loading="lazy" width="500" />
-  </div>
-</details>
 
  <!--
 > [!IMPORTANT]\
