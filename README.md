@@ -26,7 +26,7 @@
 </table>
 
 $$
-\large \color{#fe428e}{A \space little \space more \space about \space me}
+\large \color{#fe428e} A \space little \space more \space about \space me
 $$
 
 <div align="center">
