@@ -64,7 +64,7 @@ $$ \large \color{#fe428e} A \space little \space more \space about \space me $$
   <details>
     <summary>&nbsp;Editors (All)</summary>
     <div align="center">
-      <img src="https://wakatime.com/share/@AlexEG/64a9f6fb-cf3e-4aa9-bb74-34ffe2563e2a.svg" alt="AlexEG's Coding Activity (Table) - last year" loading="lazy" width="500" />
+      <img src="https://wakatime.com/share/@AlexEG/406e8b1e-5bdb-4bdc-9f3d-d3f952d9a54c.svg" alt="Editors" loading="lazy" width="500" />
     </div>
   </details>
   <details>
