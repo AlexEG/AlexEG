@@ -3,7 +3,7 @@
 <table align="center">
 <tbody>
   <tr>
-    <td width="320"><a href="https://open.spotify.com/user/31pdpcquhjbfdyqmhp6j6sy3xaxq?si=276f333629f5422b" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pdpcquhjbfdyqmhp6j6sy3xaxq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" alt="spotify-github-profile" /></a><img src="https://spotify-recently-played-readme.vercel.app/api?user=31pdpcquhjbfdyqmhp6j6sy3xaxq&count=5&unique=false" alt="Spotify recently played" /></td>
+    <td width="320"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31pdpcquhjbfdyqmhp6j6sy3xaxq&count=5&unique=false" alt="Spotify recently played" /></td>
     <td>Every individual has the potential to create change,  whether <br> in their life, their community, or the world.<br> The transformative power of education is what unlocks <br>that potential.<br> — <a href="www.edx.org" target="_blank" >edx.org</a> 
       </br>
       </br>
